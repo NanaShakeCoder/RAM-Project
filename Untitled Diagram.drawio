@@ -186,9 +186,6 @@
         <mxCell id="rvdJIMKBWjh_Pe81FS9a-20" value="Pay Walk-in" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="235" y="500" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rvdJIMKBWjh_Pe81FS9a-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rvdJIMKBWjh_Pe81FS9a-21" target="rvdJIMKBWjh_Pe81FS9a-73" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="rvdJIMKBWjh_Pe81FS9a-21" value="Confirm Credentials" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="410" width="90" height="40" as="geometry" />
         </mxCell>
